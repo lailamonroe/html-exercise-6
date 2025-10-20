@@ -22,3 +22,14 @@
     background-color: plum;
 }
 
+.pets-style {
+    background-color: darksalmon;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.pets-list {
+    background-color: darkmagenta;
+}
+
+.pets-main {
+    background-color: aqua;
+}
