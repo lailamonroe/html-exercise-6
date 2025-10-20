@@ -1,0 +1,24 @@
+.uwm-header {
+    background-color: rgb(186, 199, 223);
+}
+.uwm-list {
+    background-color: aquamarine;
+}
+
+.uwm-page-style { 
+    background-color: rgb(186, 199, 223);
+    font-family: cursive;
+}
+
+.uwm-main-style {
+    background-color: rgb(54, 195, 195);
+}
+
+.uwm-main-section-style {
+    background-color: antiquewhite;
+}
+
+.uwm-footer {
+    background-color: plum;
+}
+
